@@ -1,0 +1,124 @@
+{
+  "app": {
+    "title": "Validador de Ideas",
+    "tagline": "Análisis de Startup con IA"
+  },
+  "nav": {
+    "home": "Inicio",
+    "pricing": "Precios",
+    "language": "Idioma"
+  },
+  "home": {
+    "hero": {
+      "title": "Valida Tu Idea de Startup",
+      "subtitle": "Obtén análisis instantáneo de potencial de mercado, competencia, riesgos y sugerencias accionables",
+      "cta": "Validar Ahora"
+    },
+    "form": {
+      "title": "Describe Tu Idea",
+      "ideaTitle": "Título de la Idea",
+      "ideaTitlePlaceholder": "ej. App de planificación de comidas con IA",
+      "description": "Descripción",
+      "descriptionPlaceholder": "Describe tu idea de startup en detalle. ¿Qué problema resuelve? ¿Quién es tu público objetivo? ¿Qué la hace única?",
+      "submit": "Validar Mi Idea",
+      "validating": "Analizando...",
+      "freeTrialRemaining": "1 validación gratis restante",
+      "noCredits": "Sin validaciones restantes"
+    },
+    "features": {
+      "title": "Lo Que Obtendrás",
+      "market": {
+        "title": "Análisis de Mercado",
+        "desc": "Estimaciones TAM/SAM/SOM, tendencias de mercado y perfiles de clientes objetivo"
+      },
+      "competition": {
+        "title": "Insights de Competencia",
+        "desc": "Competidores directos e indirectos, ventajas competitivas y barreras"
+      },
+      "technical": {
+        "title": "Viabilidad Técnica",
+        "desc": "Recomendaciones de stack tecnológico, evaluación de complejidad y cronograma MVP"
+      },
+      "business": {
+        "title": "Modelo de Negocio",
+        "desc": "Fuentes de ingresos, estrategia de precios, economía unitaria y escalabilidad"
+      },
+      "risks": {
+        "title": "Evaluación de Riesgos",
+        "desc": "Riesgos de mercado, técnicos, financieros y regulatorios identificados"
+      },
+      "suggestions": {
+        "title": "Sugerencias Accionables",
+        "desc": "Acciones inmediatas, mejoras, ideas de pivote y necesidades de recursos"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Elige Tu Plan",
+    "subtitle": "Valida más ideas, construye mejores productos",
+    "popular": "Más Popular",
+    "features": {
+      "validations": "{count} Validaciones",
+      "detailed": "Análisis IA Detallado",
+      "share": "Informes Compartibles",
+      "export": "Exportar a PDF"
+    },
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "price": "$4.99",
+        "desc": "Perfecto para probar una sola idea"
+      },
+      "growth": {
+        "name": "Crecimiento",
+        "price": "$9.99",
+        "desc": "Ideal para emprendedores seriales"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "$19.99",
+        "desc": "Para equipos y aceleradoras"
+      }
+    },
+    "buyNow": "Comprar Ahora"
+  },
+  "report": {
+    "title": "Informe de Validación",
+    "overallScore": "Puntuación General",
+    "sections": {
+      "market": "Análisis de Mercado",
+      "competition": "Competencia",
+      "technical": "Viabilidad Técnica",
+      "business": "Modelo de Negocio",
+      "risks": "Riesgos",
+      "suggestions": "Sugerencias"
+    },
+    "scoreLabels": {
+      "excellent": "Excelente",
+      "good": "Bueno",
+      "moderate": "Moderado",
+      "poor": "Necesita Mejora"
+    },
+    "share": "Compartir Informe",
+    "newValidation": "Nueva Validación"
+  },
+  "payment": {
+    "success": {
+      "title": "¡Pago Exitoso!",
+      "message": "Tus tokens han sido añadidos a tu cuenta",
+      "tokensAdded": "{count} validaciones añadidas",
+      "continue": "Comenzar a Validar"
+    }
+  },
+  "errors": {
+    "generic": "Algo salió mal. Por favor intenta de nuevo.",
+    "noCredits": "Sin validaciones restantes. Por favor compra más.",
+    "validation": "Validación fallida. Por favor intenta de nuevo.",
+    "network": "Error de red. Por favor verifica tu conexión."
+  },
+  "footer": {
+    "copyright": "© {year} DenseMatrix. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  }
+}

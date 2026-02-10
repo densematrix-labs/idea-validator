@@ -1,0 +1,124 @@
+{
+  "app": {
+    "title": "Ideen-Validator",
+    "tagline": "KI-gestützte Startup-Analyse"
+  },
+  "nav": {
+    "home": "Startseite",
+    "pricing": "Preise",
+    "language": "Sprache"
+  },
+  "home": {
+    "hero": {
+      "title": "Validieren Sie Ihre Startup-Idee",
+      "subtitle": "Erhalten Sie sofortige KI-gestützte Analyse von Marktpotenzial, Wettbewerb, Risiken und umsetzbare Vorschläge",
+      "cta": "Jetzt Validieren"
+    },
+    "form": {
+      "title": "Beschreiben Sie Ihre Idee",
+      "ideaTitle": "Idee-Titel",
+      "ideaTitlePlaceholder": "z.B. KI-gestützte Mahlzeitenplanungs-App",
+      "description": "Beschreibung",
+      "descriptionPlaceholder": "Beschreiben Sie Ihre Startup-Idee im Detail. Welches Problem löst sie? Wer ist Ihre Zielgruppe? Was macht sie einzigartig?",
+      "submit": "Meine Idee Validieren",
+      "validating": "Analysiere...",
+      "freeTrialRemaining": "1 kostenlose Validierung übrig",
+      "noCredits": "Keine Validierungen übrig"
+    },
+    "features": {
+      "title": "Was Sie Erhalten",
+      "market": {
+        "title": "Marktanalyse",
+        "desc": "TAM/SAM/SOM-Schätzungen, Markttrends und Zielkundenprofile"
+      },
+      "competition": {
+        "title": "Wettbewerbseinblicke",
+        "desc": "Direkte und indirekte Wettbewerber, Wettbewerbsvorteile und Barrieren"
+      },
+      "technical": {
+        "title": "Technische Machbarkeit",
+        "desc": "Technologie-Stack-Empfehlungen, Komplexitätsbewertung und MVP-Zeitplan"
+      },
+      "business": {
+        "title": "Geschäftsmodell",
+        "desc": "Einnahmequellen, Preisstrategie, Unit Economics und Skalierbarkeit"
+      },
+      "risks": {
+        "title": "Risikobewertung",
+        "desc": "Identifizierte Markt-, technische, finanzielle und regulatorische Risiken"
+      },
+      "suggestions": {
+        "title": "Umsetzbare Vorschläge",
+        "desc": "Sofortige Maßnahmen, Verbesserungen, Pivot-Ideen und Ressourcenbedarf"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Wählen Sie Ihren Plan",
+    "subtitle": "Validieren Sie mehr Ideen, bauen Sie bessere Produkte",
+    "popular": "Am Beliebtesten",
+    "features": {
+      "validations": "{count} Validierungen",
+      "detailed": "Detaillierte KI-Analyse",
+      "share": "Teilbare Berichte",
+      "export": "Export als PDF"
+    },
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "price": "$4.99",
+        "desc": "Perfekt zum Testen einer einzelnen Idee"
+      },
+      "growth": {
+        "name": "Growth",
+        "price": "$9.99",
+        "desc": "Ideal für Serienunternehmer"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "$19.99",
+        "desc": "Für Teams und Acceleratoren"
+      }
+    },
+    "buyNow": "Jetzt Kaufen"
+  },
+  "report": {
+    "title": "Validierungsbericht",
+    "overallScore": "Gesamtpunktzahl",
+    "sections": {
+      "market": "Marktanalyse",
+      "competition": "Wettbewerb",
+      "technical": "Technische Machbarkeit",
+      "business": "Geschäftsmodell",
+      "risks": "Risiken",
+      "suggestions": "Vorschläge"
+    },
+    "scoreLabels": {
+      "excellent": "Ausgezeichnet",
+      "good": "Gut",
+      "moderate": "Moderat",
+      "poor": "Verbesserungsbedarf"
+    },
+    "share": "Bericht Teilen",
+    "newValidation": "Neue Validierung"
+  },
+  "payment": {
+    "success": {
+      "title": "Zahlung Erfolgreich!",
+      "message": "Ihre Token wurden Ihrem Konto hinzugefügt",
+      "tokensAdded": "{count} Validierungen hinzugefügt",
+      "continue": "Validierung Starten"
+    }
+  },
+  "errors": {
+    "generic": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
+    "noCredits": "Keine Validierungen übrig. Bitte kaufen Sie mehr.",
+    "validation": "Validierung fehlgeschlagen. Bitte versuchen Sie es erneut.",
+    "network": "Netzwerkfehler. Bitte überprüfen Sie Ihre Verbindung."
+  },
+  "footer": {
+    "copyright": "© {year} DenseMatrix. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen"
+  }
+}

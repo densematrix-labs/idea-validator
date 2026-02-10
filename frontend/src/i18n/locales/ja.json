@@ -1,0 +1,124 @@
+{
+  "app": {
+    "title": "アイデアバリデーター",
+    "tagline": "AI駆動のスタートアップ分析"
+  },
+  "nav": {
+    "home": "ホーム",
+    "pricing": "料金",
+    "language": "言語"
+  },
+  "home": {
+    "hero": {
+      "title": "スタートアップアイデアを検証",
+      "subtitle": "市場ポテンシャル、競合、リスク、実用的な提案をAIが即座に分析",
+      "cta": "今すぐ検証"
+    },
+    "form": {
+      "title": "アイデアを説明",
+      "ideaTitle": "アイデアタイトル",
+      "ideaTitlePlaceholder": "例：AI食事プランニングアプリ",
+      "description": "詳細説明",
+      "descriptionPlaceholder": "スタートアップアイデアを詳しく説明してください。どんな問題を解決しますか？ターゲット顧客は？何がユニークですか？",
+      "submit": "アイデアを検証",
+      "validating": "分析中...",
+      "freeTrialRemaining": "無料検証1回残り",
+      "noCredits": "検証回数がありません"
+    },
+    "features": {
+      "title": "得られるもの",
+      "market": {
+        "title": "市場分析",
+        "desc": "TAM/SAM/SOM推定、市場トレンド、ターゲット顧客プロファイル"
+      },
+      "competition": {
+        "title": "競合インサイト",
+        "desc": "直接・間接競合、競争優位性、参入障壁"
+      },
+      "technical": {
+        "title": "技術的実現可能性",
+        "desc": "技術スタック提案、複雑度評価、MVPタイムライン"
+      },
+      "business": {
+        "title": "ビジネスモデル",
+        "desc": "収益源、価格戦略、ユニットエコノミクス、スケーラビリティ"
+      },
+      "risks": {
+        "title": "リスク評価",
+        "desc": "市場、技術、財務、規制リスクの特定"
+      },
+      "suggestions": {
+        "title": "実用的提案",
+        "desc": "即時アクション、改善点、ピボットアイデア、必要リソース"
+      }
+    }
+  },
+  "pricing": {
+    "title": "プランを選択",
+    "subtitle": "より多くのアイデアを検証し、より良い製品を構築",
+    "popular": "人気",
+    "features": {
+      "validations": "検証{count}回",
+      "detailed": "詳細AI分析",
+      "share": "共有可能レポート",
+      "export": "PDF出力"
+    },
+    "plans": {
+      "starter": {
+        "name": "スターター",
+        "price": "$4.99",
+        "desc": "単一アイデアのテストに最適"
+      },
+      "growth": {
+        "name": "グロース",
+        "price": "$9.99",
+        "desc": "連続起業家に最適"
+      },
+      "pro": {
+        "name": "プロ",
+        "price": "$19.99",
+        "desc": "チームとアクセラレーター向け"
+      }
+    },
+    "buyNow": "今すぐ購入"
+  },
+  "report": {
+    "title": "検証レポート",
+    "overallScore": "総合スコア",
+    "sections": {
+      "market": "市場分析",
+      "competition": "競合分析",
+      "technical": "技術的実現可能性",
+      "business": "ビジネスモデル",
+      "risks": "リスク",
+      "suggestions": "提案"
+    },
+    "scoreLabels": {
+      "excellent": "優秀",
+      "good": "良好",
+      "moderate": "普通",
+      "poor": "要改善"
+    },
+    "share": "レポートを共有",
+    "newValidation": "新規検証"
+  },
+  "payment": {
+    "success": {
+      "title": "支払い完了！",
+      "message": "トークンがアカウントに追加されました",
+      "tokensAdded": "検証{count}回追加",
+      "continue": "検証を開始"
+    }
+  },
+  "errors": {
+    "generic": "問題が発生しました。再試行してください。",
+    "noCredits": "検証回数がありません。購入してください。",
+    "validation": "検証に失敗しました。再試行してください。",
+    "network": "ネットワークエラー。接続を確認してください。"
+  },
+  "footer": {
+    "copyright": "© {year} DenseMatrix. All rights reserved.",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約"
+  }
+}

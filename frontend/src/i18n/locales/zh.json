@@ -1,0 +1,124 @@
+{
+  "app": {
+    "title": "创意验证器",
+    "tagline": "AI 驱动的创业分析"
+  },
+  "nav": {
+    "home": "首页",
+    "pricing": "定价",
+    "language": "语言"
+  },
+  "home": {
+    "hero": {
+      "title": "验证你的创业想法",
+      "subtitle": "获取 AI 驱动的市场潜力、竞争分析、风险评估和可行性建议",
+      "cta": "立即验证"
+    },
+    "form": {
+      "title": "描述你的创意",
+      "ideaTitle": "创意标题",
+      "ideaTitlePlaceholder": "例如：AI 智能餐饮规划应用",
+      "description": "详细描述",
+      "descriptionPlaceholder": "详细描述你的创业想法。它解决什么问题？目标用户是谁？有什么独特之处？",
+      "submit": "验证我的创意",
+      "validating": "分析中...",
+      "freeTrialRemaining": "剩余 1 次免费验证",
+      "noCredits": "验证次数已用完"
+    },
+    "features": {
+      "title": "你将获得",
+      "market": {
+        "title": "市场分析",
+        "desc": "TAM/SAM/SOM 估算、市场趋势和目标客户画像"
+      },
+      "competition": {
+        "title": "竞争洞察",
+        "desc": "直接和间接竞争对手、竞争优势和进入壁垒"
+      },
+      "technical": {
+        "title": "技术可行性",
+        "desc": "技术栈建议、复杂度评估和 MVP 时间线"
+      },
+      "business": {
+        "title": "商业模式",
+        "desc": "收入来源、定价策略、单位经济和可扩展性"
+      },
+      "risks": {
+        "title": "风险评估",
+        "desc": "识别市场、技术、财务和监管风险"
+      },
+      "suggestions": {
+        "title": "可行建议",
+        "desc": "即时行动、改进方向、转型思路和所需资源"
+      }
+    }
+  },
+  "pricing": {
+    "title": "选择你的方案",
+    "subtitle": "验证更多创意，构建更好产品",
+    "popular": "最受欢迎",
+    "features": {
+      "validations": "{count} 次验证",
+      "detailed": "详细 AI 分析",
+      "share": "可分享报告",
+      "export": "导出 PDF"
+    },
+    "plans": {
+      "starter": {
+        "name": "入门版",
+        "price": "$4.99",
+        "desc": "适合测试单个创意"
+      },
+      "growth": {
+        "name": "成长版",
+        "price": "$9.99",
+        "desc": "适合连续创业者"
+      },
+      "pro": {
+        "name": "专业版",
+        "price": "$19.99",
+        "desc": "适合团队和加速器"
+      }
+    },
+    "buyNow": "立即购买"
+  },
+  "report": {
+    "title": "验证报告",
+    "overallScore": "综合评分",
+    "sections": {
+      "market": "市场分析",
+      "competition": "竞争分析",
+      "technical": "技术可行性",
+      "business": "商业模式",
+      "risks": "风险因素",
+      "suggestions": "改进建议"
+    },
+    "scoreLabels": {
+      "excellent": "优秀",
+      "good": "良好",
+      "moderate": "一般",
+      "poor": "需改进"
+    },
+    "share": "分享报告",
+    "newValidation": "新建验证"
+  },
+  "payment": {
+    "success": {
+      "title": "支付成功！",
+      "message": "验证次数已添加到你的账户",
+      "tokensAdded": "已添加 {count} 次验证",
+      "continue": "开始验证"
+    }
+  },
+  "errors": {
+    "generic": "出了点问题，请重试。",
+    "noCredits": "验证次数已用完，请购买更多。",
+    "validation": "验证失败，请重试。",
+    "network": "网络错误，请检查网络连接。"
+  },
+  "footer": {
+    "copyright": "© {year} DenseMatrix. 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  }
+}

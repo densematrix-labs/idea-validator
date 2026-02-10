@@ -1,0 +1,124 @@
+{
+  "app": {
+    "title": "Idea Validator",
+    "tagline": "AI-Powered Startup Analysis"
+  },
+  "nav": {
+    "home": "Home",
+    "pricing": "Pricing",
+    "language": "Language"
+  },
+  "home": {
+    "hero": {
+      "title": "Validate Your Startup Idea",
+      "subtitle": "Get instant AI-powered analysis of market potential, competition, risks, and actionable suggestions",
+      "cta": "Validate Now"
+    },
+    "form": {
+      "title": "Describe Your Idea",
+      "ideaTitle": "Idea Title",
+      "ideaTitlePlaceholder": "e.g., AI-powered meal planning app",
+      "description": "Description",
+      "descriptionPlaceholder": "Describe your startup idea in detail. What problem does it solve? Who is your target audience? What makes it unique?",
+      "submit": "Validate My Idea",
+      "validating": "Analyzing...",
+      "freeTrialRemaining": "1 free validation remaining",
+      "noCredits": "No validations remaining"
+    },
+    "features": {
+      "title": "What You'll Get",
+      "market": {
+        "title": "Market Analysis",
+        "desc": "TAM/SAM/SOM estimates, market trends, and target customer profiles"
+      },
+      "competition": {
+        "title": "Competition Insights",
+        "desc": "Direct and indirect competitors, competitive advantages, and barriers"
+      },
+      "technical": {
+        "title": "Technical Feasibility",
+        "desc": "Tech stack recommendations, complexity assessment, and MVP timeline"
+      },
+      "business": {
+        "title": "Business Model",
+        "desc": "Revenue streams, pricing strategy, unit economics, and scalability"
+      },
+      "risks": {
+        "title": "Risk Assessment",
+        "desc": "Market, technical, financial, and regulatory risks identified"
+      },
+      "suggestions": {
+        "title": "Actionable Suggestions",
+        "desc": "Immediate actions, improvements, pivot ideas, and resource needs"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "subtitle": "Validate more ideas, build better products",
+    "popular": "Most Popular",
+    "features": {
+      "validations": "{count} Validations",
+      "detailed": "Detailed AI Analysis",
+      "share": "Shareable Reports",
+      "export": "Export to PDF"
+    },
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "price": "$4.99",
+        "desc": "Perfect for testing a single idea"
+      },
+      "growth": {
+        "name": "Growth",
+        "price": "$9.99",
+        "desc": "Ideal for serial entrepreneurs"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "$19.99",
+        "desc": "For teams and accelerators"
+      }
+    },
+    "buyNow": "Buy Now"
+  },
+  "report": {
+    "title": "Validation Report",
+    "overallScore": "Overall Score",
+    "sections": {
+      "market": "Market Analysis",
+      "competition": "Competition",
+      "technical": "Technical Feasibility",
+      "business": "Business Model",
+      "risks": "Risks",
+      "suggestions": "Suggestions"
+    },
+    "scoreLabels": {
+      "excellent": "Excellent",
+      "good": "Good",
+      "moderate": "Moderate",
+      "poor": "Needs Work"
+    },
+    "share": "Share Report",
+    "newValidation": "New Validation"
+  },
+  "payment": {
+    "success": {
+      "title": "Payment Successful!",
+      "message": "Your tokens have been added to your account",
+      "tokensAdded": "{count} validations added",
+      "continue": "Start Validating"
+    }
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "noCredits": "No validations remaining. Please purchase more.",
+    "validation": "Validation failed. Please try again.",
+    "network": "Network error. Please check your connection."
+  },
+  "footer": {
+    "copyright": "© {year} DenseMatrix. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

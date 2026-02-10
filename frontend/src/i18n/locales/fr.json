@@ -1,0 +1,124 @@
+{
+  "app": {
+    "title": "Validateur d'Idées",
+    "tagline": "Analyse de Startup par IA"
+  },
+  "nav": {
+    "home": "Accueil",
+    "pricing": "Tarifs",
+    "language": "Langue"
+  },
+  "home": {
+    "hero": {
+      "title": "Validez Votre Idée de Startup",
+      "subtitle": "Obtenez une analyse instantanée du potentiel de marché, de la concurrence, des risques et des suggestions actionnables",
+      "cta": "Valider Maintenant"
+    },
+    "form": {
+      "title": "Décrivez Votre Idée",
+      "ideaTitle": "Titre de l'Idée",
+      "ideaTitlePlaceholder": "ex. Application de planification de repas par IA",
+      "description": "Description",
+      "descriptionPlaceholder": "Décrivez votre idée de startup en détail. Quel problème résout-elle ? Qui est votre public cible ? Qu'est-ce qui la rend unique ?",
+      "submit": "Valider Mon Idée",
+      "validating": "Analyse en cours...",
+      "freeTrialRemaining": "1 validation gratuite restante",
+      "noCredits": "Plus de validations disponibles"
+    },
+    "features": {
+      "title": "Ce Que Vous Obtiendrez",
+      "market": {
+        "title": "Analyse de Marché",
+        "desc": "Estimations TAM/SAM/SOM, tendances du marché et profils clients cibles"
+      },
+      "competition": {
+        "title": "Insights Concurrentiels",
+        "desc": "Concurrents directs et indirects, avantages compétitifs et barrières"
+      },
+      "technical": {
+        "title": "Faisabilité Technique",
+        "desc": "Recommandations de stack technique, évaluation de complexité et calendrier MVP"
+      },
+      "business": {
+        "title": "Modèle Commercial",
+        "desc": "Sources de revenus, stratégie de prix, économie unitaire et évolutivité"
+      },
+      "risks": {
+        "title": "Évaluation des Risques",
+        "desc": "Risques de marché, techniques, financiers et réglementaires identifiés"
+      },
+      "suggestions": {
+        "title": "Suggestions Actionnables",
+        "desc": "Actions immédiates, améliorations, idées de pivot et besoins en ressources"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Choisissez Votre Plan",
+    "subtitle": "Validez plus d'idées, construisez de meilleurs produits",
+    "popular": "Plus Populaire",
+    "features": {
+      "validations": "{count} Validations",
+      "detailed": "Analyse IA Détaillée",
+      "share": "Rapports Partageables",
+      "export": "Export PDF"
+    },
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "price": "$4.99",
+        "desc": "Parfait pour tester une seule idée"
+      },
+      "growth": {
+        "name": "Croissance",
+        "price": "$9.99",
+        "desc": "Idéal pour les entrepreneurs en série"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "$19.99",
+        "desc": "Pour les équipes et accélérateurs"
+      }
+    },
+    "buyNow": "Acheter"
+  },
+  "report": {
+    "title": "Rapport de Validation",
+    "overallScore": "Score Global",
+    "sections": {
+      "market": "Analyse de Marché",
+      "competition": "Concurrence",
+      "technical": "Faisabilité Technique",
+      "business": "Modèle Commercial",
+      "risks": "Risques",
+      "suggestions": "Suggestions"
+    },
+    "scoreLabels": {
+      "excellent": "Excellent",
+      "good": "Bon",
+      "moderate": "Modéré",
+      "poor": "À Améliorer"
+    },
+    "share": "Partager le Rapport",
+    "newValidation": "Nouvelle Validation"
+  },
+  "payment": {
+    "success": {
+      "title": "Paiement Réussi !",
+      "message": "Vos tokens ont été ajoutés à votre compte",
+      "tokensAdded": "{count} validations ajoutées",
+      "continue": "Commencer à Valider"
+    }
+  },
+  "errors": {
+    "generic": "Une erreur s'est produite. Veuillez réessayer.",
+    "noCredits": "Plus de validations. Veuillez en acheter plus.",
+    "validation": "Échec de la validation. Veuillez réessayer.",
+    "network": "Erreur réseau. Vérifiez votre connexion."
+  },
+  "footer": {
+    "copyright": "© {year} DenseMatrix. Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation"
+  }
+}
