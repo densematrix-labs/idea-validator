@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://idea-validator.demo.densematrix.ai/sitemap-main.xml</loc>
+    <lastmod>2026-02-24</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://idea-validator.demo.densematrix.ai/sitemap-programmatic-1.xml</loc>
+    <lastmod>2026-02-24</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://idea-validator.demo.densematrix.ai/sitemap-programmatic-2.xml</loc>
+    <lastmod>2026-02-24</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://idea-validator.demo.densematrix.ai/sitemap-programmatic-3.xml</loc>
+    <lastmod>2026-02-24</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://idea-validator.demo.densematrix.ai/sitemap-programmatic-4.xml</loc>
+    <lastmod>2026-02-24</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://idea-validator.demo.densematrix.ai/sitemap-programmatic-5.xml</loc>
+    <lastmod>2026-02-24</lastmod>
+  </sitemap>
+</sitemapindex>
